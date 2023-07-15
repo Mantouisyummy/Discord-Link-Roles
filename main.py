@@ -12,7 +12,7 @@ state = str(uuid.uuid4())
 
 @app.route('/')
 def hello_world():
-    return '👋'
+    return redirect('/linked-roles')
 
 @app.route('/linked-roles', methods = ['POST', 'GET'])
 @app.route('/verified-role', methods = ['POST', 'GET'])

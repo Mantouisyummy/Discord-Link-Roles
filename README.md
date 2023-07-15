@@ -1,6 +1,6 @@
 ### 取得Discord Bot App 證書
 
-首先，將你所拿到的機器人資訊填入至 `config.py` 檔案中.  你會需要 Token (`DISCORD_TOKEN`),  client ID (`DISCORD_CLIENT_ID`),   client secret (`DISCORD_CLIENT_SECRET`).  還有 redirect URI (`DISCORD_REDIRECT_URI`),  以及一個隨機產生的UUID值 (`COOKIE_SECRET`) 
+首先，將你所拿到的機器人資訊填入至 `config.py` 檔案中.你會需要 Token (`DISCORD_TOKEN`)  ,  client ID (`DISCORD_CLIENT_ID`)  ,   client secret (`DISCORD_CLIENT_SECRET`)  .  還有 redirect URI (`DISCORD_REDIRECT_URI`)  ,  以及一個隨機產生的UUID值 (`COOKIE_SECRET`)   
 他們在檔案中看起來會像這樣:
 
 ```

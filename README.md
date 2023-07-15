@@ -40,3 +40,9 @@ python main.py
 ```
 python register.py
 ```
+
+驗證身分網址範例如下 (你必須將此網址填入至Discord Dev中的LINKED ROLES VERIFICATION URL):
+
+```
+https://<your-project-url>/linked-roles
+```
